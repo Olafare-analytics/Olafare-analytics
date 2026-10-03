@@ -20,24 +20,49 @@ My interests include **business intelligence, healthcare analytics, statistical 
 - **Machine Learning:** Classification, predictive modelling, feature engineering, and model evaluation
 - **Business Intelligence:** KPI development, reporting, dashboard design, and insight generation
 
+## Education
+
+- **M.Sc. Statistics** — University of Ilorin *(In Progress)*
+- **B.Sc. Statistics** — University of Ilorin
+
+## Professional Background
+
+I have practical experience across **data analysis, statistical research, business intelligence, machine learning, and analytics training**.
+
+My work has involved:
+
+- Analysing and interpreting complex datasets
+- Building data visualisations and analytical reports
+- Applying statistical and machine learning techniques
+- Supporting evidence-based decision-making
+- Conducting research and data preparation
+- Delivering training in Excel, R, Python, and Power BI
+
 ## Featured Projects
 
-### Superstore Sales Dashboard
-Interactive Microsoft Excel dashboard analysing approximately **$2.30M in sales**, profitability, customer segments, product categories, and sales trends.
+### 📊 Superstore Sales Dashboard
 
-**Key skills:** Excel, PivotTables, PivotCharts, KPI Analysis, Dashboard Design
+Developed an interactive Microsoft Excel dashboard analysing approximately **$2.30M in sales**, **$286K in profit**, customer segments, product categories, and sales trends.
+
+**Key skills:** Excel, PivotTables, PivotCharts, KPI Analysis, Dashboard Design, Business Intelligence
 
 [View Project](https://github.com/Olafare-analytics/superstore-sales-dashboard)
 
-### Blood Transfusion Risk Prediction
-Machine learning project developed to predict in-hospital blood transfusion risk using clinical data.
+---
 
-**Key skills:** Python, Machine Learning, Predictive Modelling, Model Evaluation
+### 🩸 Blood Transfusion Risk Prediction
+
+Developed a machine learning model to predict in-hospital blood transfusion risk using clinical data, demonstrating the application of predictive analytics in healthcare.
+
+**Key skills:** Python, Machine Learning, Classification, Predictive Modelling, Model Evaluation
 
 [View Project](https://github.com/Olafare-analytics/blood-transfusion-risk-prediction)
 
-### Module Selection Optimisation
-Optimisation project using Binary Integer Programming and Excel Solver to maximise module satisfaction while accounting for scheduling constraints.
+---
+
+### 📚 Module Selection Optimisation
+
+Built an optimisation model using **Binary Integer Programming and Excel Solver** to maximise module satisfaction while satisfying scheduling and selection constraints.
 
 **Key skills:** Optimisation, Excel Solver, Binary Integer Programming, Decision Analysis
 
@@ -55,8 +80,18 @@ Optimisation project using Binary Integer Programming and Excel Solver to maximi
 
 ## Current Focus
 
-I am continuously building practical data analytics projects that demonstrate how data can support better business, healthcare, and operational decisions.
+I am currently expanding my portfolio through projects in:
+
+- Business Intelligence and dashboard development
+- SQL-based data analysis
+- Healthcare and public health analytics
+- Statistical modelling
+- Predictive machine learning
+- Data-driven decision support
 
 ## Let's Connect
 
 I am open to opportunities in **Data Analysis, Business Intelligence, Healthcare Analytics, Research Analytics, and related data-driven roles**.
+
+- **Email:** olafare8@gmail.com
+- **GitHub:** [Olafare-analytics](https://github.com/Olafare-analytics)
