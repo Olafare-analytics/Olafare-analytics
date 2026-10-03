@@ -1,17 +1,23 @@
 # Hi, I'm Sikiru Olafare 👋
 
-I am a Data Analyst with experience using **Excel, SQL, Power BI, Python, R, and statistical tools** to transform complex datasets into clear, actionable insights.
+I am a **Data Analyst and Statistics graduate** with experience using **Excel, SQL, Power BI, Python, R, SPSS, Stata, and statistical techniques** to transform complex datasets into clear, actionable insights.
 
-My interests include **business intelligence, healthcare analytics, predictive modelling, optimisation, data visualisation, and evidence-based decision-making**.
+I hold a **B.Sc. in Statistics from the University of Ilorin** and I am currently pursuing an **M.Sc. in Statistics**.
+
+My interests include **business intelligence, healthcare analytics, statistical modelling, predictive analytics, machine learning, optimisation, data visualisation, and evidence-based decision-making**.
 
 ## Technical Skills
 
-- **Excel:** PivotTables, PivotCharts, dashboards, Solver, data cleaning, KPI analysis
+## Technical Skills
+
+- **Statistical Analysis:** Descriptive statistics, inferential statistics, regression analysis, hypothesis testing, and statistical modelling
+- **Excel:** PivotTables, PivotCharts, dashboards, Solver, data cleaning, and KPI analysis
 - **SQL:** Data querying, joins, aggregation, filtering, and data manipulation
 - **Power BI:** Data modelling, DAX, interactive dashboards, and reporting
 - **Python:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **R:** Statistical analysis, modelling, and data visualisation
-- **Machine Learning:** Classification, predictive modelling, model evaluation
+- **SPSS & Stata:** Statistical analysis, regression, hypothesis testing, and research data analysis
+- **Machine Learning:** Classification, predictive modelling, feature engineering, and model evaluation
 - **Business Intelligence:** KPI development, reporting, dashboard design, and insight generation
 
 ## Featured Projects
